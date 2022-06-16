@@ -1,0 +1,19 @@
+
+public class Employee {
+	
+	int empid;
+	String empname;
+	String empaddress;
+	
+	public void DisplayDetails() {
+		
+		System.out.println("employee id : "+ empid);
+		System.out.println("employee name : "+ empname);
+		System.out.println("employee address : "+ empaddress);
+		
+		
+	}
+	
+	
+
+}
